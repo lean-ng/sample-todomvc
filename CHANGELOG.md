@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.1.0
+
+[compare changes](https://github.com/lean-ng/sample-todomvc/compare/v0.0.1...v0.1.0)
+
+
+### 🚀 Enhancements
+
+  - Use static template of the todomvc project ([59abf3c](https://github.com/lean-ng/sample-todomvc/commit/59abf3c))
+
+### ❤️  Contributors
+
+- Micha Buchholz ([@lean-dev](http://github.com/lean-dev))
+
 ## v0.0.1
 
 
