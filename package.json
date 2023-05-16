@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/haus23/tipprunde-www.git"
+    "url": "https://github.com/lean-ng/sample-todomvc.git"
   },
   "scripts": {
     "ng": "ng",
